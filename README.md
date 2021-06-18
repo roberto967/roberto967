@@ -1,6 +1,7 @@
 <p align='center'>
 <img src="https://github.com/roberto967/roberto967/blob/main/imgs/Header_Roberto.png?raw=true">&nbsp;&nbsp;
 </p>
+-----
 - 👋 Hi, I’m @roberto967
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
