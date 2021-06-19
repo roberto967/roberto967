@@ -20,7 +20,7 @@
   
 <p>
   &nbsp;
-  Amo artes marciais Artes marciais 🥋, Filmes 🎬 e Quadrinhos 📔.
+  Amo Artes marciais 🥋, Filmes 🎬 e Quadrinhos 📔.
 </p>
 
 ## Tecnologias que tenho conhecimento:
