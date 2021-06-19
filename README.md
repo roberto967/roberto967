@@ -13,7 +13,15 @@
 
 ## Olá! Bem vindo 👋
 
-Sou graduando em Engenharia de Computação, com um grande apreço em progamação e robótica. Estou sempre em busca de aprender novas tecnologias, linguagens e diferentes formas de solucionar problemas.
+<p> 
+  &nbsp
+  Sou graduando em Engenharia de Computação e Técnico em Recursos Pesqueiros(IFPB), com um grande apreço em progamação e robótica. Estou sempre em busca de aprender novas tecnologias, linguagens e diferentes formas de solucionar problemas.
+</p>
+  
+<p>
+  &nbsp
+  Amo artes marciais Artes marciais 🥋, Filmes 🎬 e Quadrinhos 📔.
+</p>
 
 ## Onde me encontrar:
 
