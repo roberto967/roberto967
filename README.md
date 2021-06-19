@@ -15,7 +15,7 @@
 
 <p> 
   &nbsp;
-  Sou graduando em Engenharia de Computação e Técnico em Recursos Pesqueiros(IFPB), e tenho um grande apreço em progamação e robótica. Estou sempre em busca de aprender novas tecnologias, linguagens e diferentes formas de solucionar problemas.
+  Sou graduando em Engenharia de Computação e Técnico em Recursos Pesqueiros(IFPB), e tenho um grande apreço por progamação e robótica. Estou sempre em busca de aprender novas tecnologias, linguagens e diferentes formas de solucionar problemas.
 </p>
   
 <p>
