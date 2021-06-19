@@ -23,11 +23,17 @@
   Amo artes marciais Artes marciais 🥋, Filmes 🎬 e Quadrinhos 📔.
 </p>
 
-## Minhas experiências e conhecimento:
+## Tecnologias que tenho conhecimento:
 
+<p>
+  &nbsp;
+  <img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/cpp.png?raw=true">
+  <img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/javascript.png?raw=true">
+  <img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/html.png?raw=true">
+  <img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/css.png?raw=true">
+</p>
 
-
-## Onde me encontrar:
+## Meios de contato:
 
 <p align="center">
   <a href="www.linkedin.com/in/robertoof"><img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/linkedin.png?raw=true"></a>&nbsp;&nbsp;
