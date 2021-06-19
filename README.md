@@ -1,5 +1,5 @@
 <p align='center'>
-<img src="https://github.com/roberto967/roberto967/blob/main/imgs/Header_Roberto.png?raw=true">&nbsp;&nbsp;
+<img src="https://github.com/roberto967/roberto967/blob/main/imgs/Header_Roberto.png?raw=true" title="Painel">&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -27,19 +27,19 @@
 
 <p>
   &nbsp;
-  <img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/cpp.png?raw=true">&nbsp;&nbsp;
-  <img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/javascript.png?raw=true">&nbsp;
-  <img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/html.png?raw=true">
-  <img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/css.png?raw=true">
+  <img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/cpp.png?raw=true" onclick="return false" title="C++">&nbsp;&nbsp;
+  <img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/javascript.png?raw=true" title="JavaScript">&nbsp;
+  <img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/html.png?raw=true" title="HTML5">
+  <img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/css.png?raw=true" title="CSS3">
 </p>
 
 ## Onde me encontrar:
 
 <p align="center">
-  <a href="www.linkedin.com/in/robertoof"><img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://https://github.com/roberto967"><img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/github.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/roberto.ex3/"><img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/instagram.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="mailto:robertoo.jof@gmail.com"><img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/gmail.png?raw=true"></a>
+  <a href="www.linkedin.com/in/robertoof"><img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/linkedin.png?raw=true" title="Linkedin"></a>&nbsp;&nbsp;
+  <a href="https://https://github.com/roberto967"><img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/github.png?raw=true" title="Github"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/roberto.ex3/"><img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/instagram.png?raw=true" title="Instagram"></a>&nbsp;&nbsp;
+  <a href="mailto:robertoo.jof@gmail.com"><img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/gmail.png?raw=true" title="Mail"></a>
 </p>
 
 ---
