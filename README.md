@@ -27,8 +27,8 @@
 
 <p>
   &nbsp;
-  <img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/cpp.png?raw=true">
-  <img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/javascript.png?raw=true">
+  <img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/cpp.png?raw=true">&nbsp;&nbsp;
+  <img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/javascript.png?raw=true">&nbsp;
   <img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/html.png?raw=true">
   <img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/css.png?raw=true">
 </p>
