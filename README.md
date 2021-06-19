@@ -11,7 +11,9 @@
 
 ---
 
-## Olá, bem vindo 👋
+## Olá! Bem vindo 👋
+
+Sou graduando em Engenharia de Computação, com um grande apreço em progamação e robótica. Estou sempre em busca de aprender novas tecnologias, linguagens e diferentes formas de solucionar problemas.
 
 <!---
 roberto967/roberto967 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
