@@ -23,6 +23,10 @@
   Amo artes marciais Artes marciais 🥋, Filmes 🎬 e Quadrinhos 📔.
 </p>
 
+## Minhas experiências e conhecimento:
+
+
+
 ## Onde me encontrar:
 
 <p align="center">
