@@ -13,7 +13,7 @@
 
 ## Olá! Bem vindo 👋
 
-<p> 
+<p>
   &nbsp;
   Sou graduando em Engenharia de Computação e Técnico em Recursos Pesqueiros(IFPB), e tenho um grande apreço por progamação e robótica. Estou sempre em busca de aprender novas tecnologias, linguagens e diferentes formas de solucionar problemas.
 </p>
@@ -23,7 +23,7 @@
   Amo Artes marciais 🥋, Filmes 🎬 e Quadrinhos 📔.
 </p>
 
-## Tecnologias que tenho conhecimento:
+## Tecnologias que tenho conhecimento
 
 <p>
   &nbsp;
@@ -33,7 +33,7 @@
   <img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/css.png?raw=true" title="CSS3">
 </p>
 
-## Onde me encontrar:
+## Onde me encontrar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/robertoof/"><img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/linkedin.png?raw=true" title="Linkedin"></a>&nbsp;&nbsp;
