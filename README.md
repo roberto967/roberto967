@@ -17,11 +17,6 @@
   &nbsp;
   Sou graduando em Engenharia de Computação e Técnico em Recursos Pesqueiros(IFPB), e tenho um grande apreço por progamação e robótica. Estou sempre em busca de aprender novas tecnologias, linguagens e diferentes formas de solucionar problemas.
 </p>
-  
-<p>
-  &nbsp;
-  Amo Artes marciais 🥋, Filmes 🎬 e Quadrinhos 📔.
-</p>
 
 ## Tecnologias que tenho conhecimento
 
