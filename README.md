@@ -2,9 +2,9 @@
 <img src="https://github.com/roberto967/roberto967/blob/main/imgs/Header_Roberto.png?raw=true" title="Painel">&nbsp;&nbsp;
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/roberto967">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto967&hide_progress=true&theme=tokyonight&layout=compact&langs_count=3" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto967&hide_progress=false&theme=github_dark&langs_count=3" />
   </a>
 </p>
 
