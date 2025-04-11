@@ -26,14 +26,5 @@
   <img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/css.png?raw=true" title="CSS3">
 </p>
 
-## Onde me encontrar
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/robertoof/"><img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/linkedin.png?raw=true" title="Linkedin"></a>&nbsp;&nbsp;
-  <a href="https://github.com/roberto967"><img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/github.png?raw=true" title="Github"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/roberto.ex3/"><img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/instagram.png?raw=true" title="Instagram"></a>&nbsp;&nbsp;
-  <a href="mailto:robertoo.jof@gmail.com"><img height="50" src="https://github.com/roberto967/roberto967/blob/main/imgs/gmail.png?raw=true" title="Mail"></a>
-</p>
-
 ---
 ![](https://komarev.com/ghpvc/?username=roberto967&color=456fb5&style=flat)
